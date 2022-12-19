@@ -10,4 +10,4 @@ Now transfer your modified CSV to a linux virtual machine (or use linux to begin
 Now you have your basic programs ready! Paste them into Altirra or save them to a disk image and use them on real hardware!
 
 I used it to make Bad Apple in this video: https://youtu.be/WEmwWTVpIfU
-!Bad Apple Video(https://github.com/WoodcraftWorld/image-hosting/blob/master/bappleat800.png?raw=true)
+![Bad Apple Video](https://github.com/WoodcraftWorld/image-hosting/blob/master/bappleat800.png?raw=true)
