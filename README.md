@@ -11,3 +11,5 @@ Now you have your basic programs ready! Paste them into Altirra or save them to 
 
 I used it to make Bad Apple in this video: https://youtu.be/WEmwWTVpIfU
 ![Bad Apple Video](https://github.com/WoodcraftWorld/image-hosting/blob/master/bappleat800.png?raw=true)
+# More Info
+Bad Apple video sped up 4.6943X
